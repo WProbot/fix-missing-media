@@ -13,7 +13,7 @@ Seeks to fix the missing media on a Newspack staging site.
 
 Seeks to fix the missing media on a Newspack staging site.
 
-Built for Newspack staging sites, untested elsewhere.
+Built for Newspack staging sites, untested elsewhere. Run `wp help fmm-fix-missing-media` for documentation.
 
 == Changelog ==
 
